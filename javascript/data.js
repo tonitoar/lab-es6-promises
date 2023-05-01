@@ -19,9 +19,9 @@ const mashedPotatoes = [
 
 const brusselsSprouts = [
   'wash brussels sprouts',
-  'cut off base and chop in half',
-  'toss in bowl with olive oil, balsamic vinegar and salt',
-  'preheat oven to 500 F',
+  'cut of, balsamic vinegar and salt',
+  'preheat oven to 50f base and chop in half',
+  'toss in bowl with olive oil0 F',
   'coat baking sheet with olive oil',
   'roast in the oven for 20 minutes',
   'place back in bowl and add salt and pepper',
